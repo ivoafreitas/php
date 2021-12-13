@@ -1,5 +1,5 @@
 <?php
-	echo "Olá, mundo!!";
+	echo "Olá, mundo!";
 
-	echo "Adicionei mais uma linha netes arquivo.";
+	echo "Adicionei mais uma linha neste arquivo.";
 ?>
